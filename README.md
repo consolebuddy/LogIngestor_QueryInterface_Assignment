@@ -14,7 +14,7 @@
 ##### Instructions:
 
 
-1. Clone the project repository:  [https://github.com/itssouray/Log-Ingestor-and-Query-Interface](https://github.com/consolebuddy/LogIngestor_QueryInterface_Assignment)
+1. Clone the project repository:  (https://github.com/consolebuddy/LogIngestor_QueryInterface_Assignment)
 
 2. Navigate to the project directory
 
