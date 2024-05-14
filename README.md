@@ -38,7 +38,7 @@ Prerequisites:
 • Postman
 
 Instructions:
-Clone the project repository: https://github.com/itssouray/Log-Ingestor-and-Query-Interface
+Clone the project repository: (https://github.com/consolebuddy/LogIngestor_QueryInterface_Assignment)
 
 Navigate to the project directory
 
